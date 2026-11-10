@@ -1,0 +1,13 @@
+# Dependencies
+**/node_modules/
+
+# Build output
+**/dist/
+
+# Local environment secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
